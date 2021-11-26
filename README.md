@@ -1,2 +1,5 @@
-# desafio-bootcamp-DIO
-Criação de um repositório para commits de projetos do bootcamp DIO Java Cognizant
+# Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para desafio do projeto.
+
+## Links úteis
+[LinkdIn](https://www.linkedin.com/in/viniciuscavalheiro/)
